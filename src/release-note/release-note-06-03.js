@@ -1,14 +1,11 @@
 import React from 'react';
-import '../App.css';
 
-class release_06_03 extends React.Component {
-  render() {
-    return (
-      <>
-        <p>Mô hình mẫu</p>
-      </>
-    );
-  }
+function release_06_03() {
+  return (
+    <>
+      <p>hello</p>
+    </>
+  );
 }
 
 export default release_06_03;

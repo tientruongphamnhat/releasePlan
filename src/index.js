@@ -3,22 +3,24 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import release_06_03 from './release-note/release-note-06-03';
+// import release_06_03 from './release-note/release-note-06-03';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <Router>
-    <Switch>
-      <Route exact path="/">
-        <App />
-      </Route>
-      {/* <Route path="/release_notes_06-03-2020.txt">
-        <release_06_03 />
-      </Route> */}
-      {/* <Route path="/dashboard">
+    <>
+      <Switch>
+        <Route exact path="/">
+          <App />
+        </Route>
+        {/* <Route path="/release_notes_06-03-2020.txt">
+          <release_06_03 />
+        </Route> */}
+        {/* <Route path="/dashboard">
         <Dashboard />
       </Route> */}
-    </Switch>
+      </Switch>
+    </>
   </Router>,
   document.getElementById('root')
 );
