@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import { Link } from 'react-router-dom';
 
 class App extends React.Component {
   render() {
@@ -104,8 +105,21 @@ class App extends React.Component {
         </ul>
         <hr />
         <h1>Cập nhật quá trình</h1>
-        {/* <ul>
-          <h2>14/02/2020</h2>
+        <ul>
+          <h2>06/03/2020</h2>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1sAH3FshPL6pMzOeVztenPNb_TxDJJ_Wl">
+              Mô hình mẫu
+            </a>
+          </li>
+
+          {/* <li>
+            <Link to="/release_notes_06-03-2020.txt">
+              release_notes_06-03-2020.txt
+            </Link>
+          </li> */}
+
+          {/* <h2>06/03/2020</h2>
           <li>
             <p>
               Hướng dẫn xây dựng trang web Release:
@@ -115,9 +129,9 @@ class App extends React.Component {
             </p>
           </li>
 
-          <br />
+          <br /> */}
 
-          <h2>10/02/2020</h2>
+          {/* <h2>10/02/2020</h2>
           <li>
             <a href="https://youtu.be/VDohumbqSmA">
               Link youtube video hướng dẫn cài đặt, sử dụng
@@ -278,8 +292,8 @@ class App extends React.Component {
             <a href="release_notes_2019-11-14.txt">
               release_notes_2019-11-14.txt
             </a>
-          </li>
-        </ul> */}
+          </li> */}
+        </ul>
         <hr />
       </>
     );
