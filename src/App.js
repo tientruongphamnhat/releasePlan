@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 class App extends React.Component {
   render() {
@@ -113,11 +113,11 @@ class App extends React.Component {
             </a>
           </li>
 
-          {/* <li>
-            <Link to="/release_notes_06-03-2020.txt">
+          <li>
+            <Link to="/Release_notes_06-03-2020.txt">
               release_notes_06-03-2020.txt
             </Link>
-          </li> */}
+          </li>
 
           {/* <h2>06/03/2020</h2>
           <li>
