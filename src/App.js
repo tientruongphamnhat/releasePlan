@@ -119,6 +119,30 @@ class App extends React.Component {
             </Link>
           </li>
 
+          <br />
+
+          <h2>12/03/2020</h2>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1gE99dM0byX7Bg-QqoCJCpTaPfGY2Yxjd">
+              Slide giới thiệu đề tài
+            </a>
+          </li>
+
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1ynXsefirPRkY9kok7UR3qa0P2lu57dR-">
+              Luận văn chương I
+            </a>
+          </li>
+
+          <li>
+            <a href="https://demokltn.herokuapp.com/">PoC</a>
+          </li>
+
+          <li>
+            <Link to="/Release_notes_12-03-2020.txt">
+              release_notes_12-03-2020.txt
+            </Link>
+          </li>
           {/* <h2>06/03/2020</h2>
           <li>
             <p>
