@@ -143,17 +143,9 @@ class App extends React.Component {
               release_notes_12-03-2020.txt
             </Link>
           </li>
-          {/* <h2>06/03/2020</h2>
-          <li>
-            <p>
-              Hướng dẫn xây dựng trang web Release:
-              <a href="huong_dan_cai_dat_trang_release.pdf">(Bản PDF)</a>
-              <a href="huong_dan_cai_dat_trang_release.docx">(Bản DOCX)</a>
-              <a href="web_release.zip">(Mã nguồn mẫu)</a>
-            </p>
-          </li>
+          <h2>19/03/2020</h2>
 
-          <br /> */}
+          <br />
 
           {/* <h2>10/02/2020</h2>
           <li>
