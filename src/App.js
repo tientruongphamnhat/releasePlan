@@ -147,8 +147,8 @@ class App extends React.Component {
 
           <br />
 
-          {/* <h2>10/02/2020</h2>
-          <li>
+          <h2>26/03/2020</h2>
+          {/* <li>
             <a href="https://youtu.be/VDohumbqSmA">
               Link youtube video hướng dẫn cài đặt, sử dụng
             </a>
@@ -193,9 +193,9 @@ class App extends React.Component {
             <a href="luan_van_2020-02-10.pdf">Luận văn (PDF)</a>
           </li>
 
-          <br />
+          <br /> */}
 
-          <h2>03/02/2020</h2>
+          {/* <h2>03/02/2020</h2>
           <li>
             <a href="sound_meter_2020-02-03.zip">
               Tập tin nén chứa thư mục mã nguồn
