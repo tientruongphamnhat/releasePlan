@@ -5,6 +5,7 @@ import App from './App';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Release0603 from './release-note/release-note-06-03';
 import Release1203 from './release-note/release-note-12-03';
+import Release2603 from './release-note/release-note-26-03';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
@@ -18,6 +19,9 @@ ReactDOM.render(
       </Route>
       <Route path="/Release_notes_12-03-2020.txt">
         <Release1203 />
+      </Route>
+      <Route path="/Release_notes_26-03-2020.txt">
+        <Release2603 />
       </Route>
       {/* <Route path="/dashboard">
         <Dashboard />

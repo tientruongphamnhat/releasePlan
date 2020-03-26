@@ -148,6 +148,31 @@ class App extends React.Component {
           <br />
 
           <h2>26/03/2020</h2>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=11g5b8GbgF4M8AQPgU2tKh-GtqxlO0ng5">
+              Liệt kê các khái niệm chương 2
+            </a>
+          </li>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1374QZBBBf8MJuV0fRbWseBf-NieE1QMk">
+              Viết luận văn chương 4(chưa hoàn thành).
+            </a>
+          </li>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1JibPMxiWHBw2CD9BjTCeHd5Q5oRfNcOi">
+              Viết luận văn chương 5.
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/nmtri1912/KLTN/tree/master/NMT">
+              Xây dựng model (level character + no attention)
+            </a>
+          </li>
+          <li>
+            <Link to="/Release_notes_26-03-2020.txt">
+              release_notes_26-03-2020.txt
+            </Link>
+          </li>
           {/* <li>
             <a href="https://youtu.be/VDohumbqSmA">
               Link youtube video hướng dẫn cài đặt, sử dụng
