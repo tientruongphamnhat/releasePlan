@@ -173,6 +173,23 @@ class App extends React.Component {
               release_notes_26-03-2020.txt
             </Link>
           </li>
+
+          <h2>02/04/2020</h2>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1luBeIYEGMeQnpcZbcfeJh-B1Gw9edhpR">
+              Slide trình bày model
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/nmtri1912/KLTN/tree/master/NMT-Attention">
+              Model Seq2seq + attention
+            </a>
+          </li>
+          <li>
+            <Link to="/Release_notes_02-04-2020.txt">
+              release_notes_02-04-2020.txt
+            </Link>
+          </li>
           {/* <li>
             <a href="https://youtu.be/VDohumbqSmA">
               Link youtube video hướng dẫn cài đặt, sử dụng
