@@ -106,46 +106,22 @@ class App extends React.Component {
         <hr />
         <h1>Cập nhật quá trình</h1>
         <ul>
-          <h2>06/03/2020</h2>
+          <h2>02/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1sAH3FshPL6pMzOeVztenPNb_TxDJJ_Wl">
-              Mô hình mẫu
+            <a href="https://drive.google.com/uc?export=download&id=1luBeIYEGMeQnpcZbcfeJh-B1Gw9edhpR">
+              Slide trình bày model
             </a>
           </li>
-
           <li>
-            <Link to="/Release_notes_06-03-2020.txt">
-              release_notes_06-03-2020.txt
+            <a href="https://github.com/nmtri1912/KLTN/tree/master/NMT-Attention">
+              Model Seq2seq + attention
+            </a>
+          </li>
+          <li>
+            <Link to="/Release_notes_02-04-2020.txt">
+              release_notes_02-04-2020.txt
             </Link>
           </li>
-
-          <br />
-
-          <h2>12/03/2020</h2>
-          <li>
-            <a href="https://drive.google.com/uc?export=download&id=1gE99dM0byX7Bg-QqoCJCpTaPfGY2Yxjd">
-              Slide giới thiệu đề tài
-            </a>
-          </li>
-
-          <li>
-            <a href="https://drive.google.com/uc?export=download&id=1ynXsefirPRkY9kok7UR3qa0P2lu57dR-">
-              Luận văn chương I
-            </a>
-          </li>
-
-          <li>
-            <a href="https://demokltn.herokuapp.com/">PoC</a>
-          </li>
-
-          <li>
-            <Link to="/Release_notes_12-03-2020.txt">
-              release_notes_12-03-2020.txt
-            </Link>
-          </li>
-          <h2>19/03/2020</h2>
-
-          <br />
 
           <h2>26/03/2020</h2>
           <li>
@@ -174,22 +150,45 @@ class App extends React.Component {
             </Link>
           </li>
 
-          <h2>02/04/2020</h2>
+          <h2>19/03/2020</h2>
+
+          <h2>12/03/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1luBeIYEGMeQnpcZbcfeJh-B1Gw9edhpR">
-              Slide trình bày model
+            <a href="https://drive.google.com/uc?export=download&id=1gE99dM0byX7Bg-QqoCJCpTaPfGY2Yxjd">
+              Slide giới thiệu đề tài
             </a>
           </li>
+
           <li>
-            <a href="https://github.com/nmtri1912/KLTN/tree/master/NMT-Attention">
-              Model Seq2seq + attention
+            <a href="https://drive.google.com/uc?export=download&id=1ynXsefirPRkY9kok7UR3qa0P2lu57dR-">
+              Luận văn chương I
             </a>
           </li>
+
           <li>
-            <Link to="/Release_notes_02-04-2020.txt">
-              release_notes_02-04-2020.txt
+            <a href="https://demokltn.herokuapp.com/">PoC</a>
+          </li>
+
+          <li>
+            <Link to="/Release_notes_12-03-2020.txt">
+              release_notes_12-03-2020.txt
             </Link>
           </li>
+
+          <h2>06/03/2020</h2>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1sAH3FshPL6pMzOeVztenPNb_TxDJJ_Wl">
+              Mô hình mẫu
+            </a>
+          </li>
+
+          <li>
+            <Link to="/Release_notes_06-03-2020.txt">
+              release_notes_06-03-2020.txt
+            </Link>
+          </li>
+
+          <br />
           {/* <li>
             <a href="https://youtu.be/VDohumbqSmA">
               Link youtube video hướng dẫn cài đặt, sử dụng
