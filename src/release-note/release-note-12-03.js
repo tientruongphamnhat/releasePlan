@@ -5,9 +5,11 @@ class Release1203 extends React.Component {
   render() {
     return (
       <>
-        <p> Luận văn chương I</p>
-        <p> Slide trình bày đề tài</p>
-        <p> Poc</p>
+        <ul>
+          <li>Luận văn chương I</li>
+          <li>Slide trình bày đề tài</li>
+          <li>Poc</li>
+        </ul>
       </>
     );
   }
