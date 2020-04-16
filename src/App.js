@@ -106,9 +106,11 @@ class App extends React.Component {
         <hr />
         <h1>Cập nhật quá trình</h1>
         <ul>
+          <h2>16/04/2020</h2>
+
           <h2>09/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1MjNhe10d-Bo-RZwr9PJ9LxN6ToPATs8h">
+            <a href="https://drive.google.com/uc?export=download&id=1Qdr8KL2q3egMHQ38gPyKWZGKbxbKUV2W">
               update Chương II
             </a>
           </li>
