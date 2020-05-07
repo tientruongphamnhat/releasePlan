@@ -108,6 +108,18 @@ class App extends React.Component {
         <hr />
         <h1>Cập nhật quá trình</h1>
         <ul>
+          <h2>07/05/2020</h2>
+          <li>
+            <a href="http://demo-translate-poc.herokuapp.com/">Demo Poc</a>
+          </li>
+          <li>
+            <Link to="/Release_notes_07-05-2020.txt">
+              release_notes_07-05-2020.txt
+            </Link>
+          </li>
+
+          <h2>30/04/2020</h2>
+
           <h2>23/04/2020</h2>
           <li>
             <a href="https://drive.google.com/uc?export=download&id=1er9U-TVcR6hzhB4G0YTxBqYdZRLPyQ3Z">
@@ -194,7 +206,7 @@ class App extends React.Component {
           </li>
 
           <li>
-            <a href="http://3.21.198.225/">PoC</a>
+            <a href="http://demo-translate-poc.herokuapp.com/">PoC</a>
           </li>
 
           <li>
