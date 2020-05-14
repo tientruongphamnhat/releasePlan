@@ -108,6 +108,16 @@ class App extends React.Component {
         <hr />
         <h1>Cập nhật quá trình</h1>
         <ul>
+          <h2>14/05/2020</h2>
+          <li>
+            <a href="https://youtu.be/bFXfoLTR8YU">Demo</a>
+          </li>
+          <li>
+            <Link to="/Release_notes_14-05-2020.txt">
+              release_notes_14-05-2020.txt
+            </Link>
+          </li>
+
           <h2>07/05/2020</h2>
           <li>
             <a href="http://demo-translate-poc.herokuapp.com/">Demo Poc</a>
