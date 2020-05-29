@@ -108,6 +108,8 @@ class App extends React.Component {
         <hr />
         <h1>Cập nhật quá trình</h1>
         <ul>
+          <h2>29/05/2020</h2>
+
           <h2>21/05/2020</h2>
 
           <h2>14/05/2020</h2>
