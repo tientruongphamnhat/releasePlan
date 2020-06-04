@@ -108,6 +108,26 @@ class App extends React.Component {
         <hr />
         <h1>Cập nhật quá trình</h1>
         <ul>
+          <h2>04/06/2020</h2>
+          <li>
+            <a href="http://demo-translate-poc.herokuapp.com/">
+              front-end product
+            </a>
+          </li>
+          <li>
+            <a href="http://3.21.179.138/">back-end model</a>
+          </li>
+          <li>
+            <a href="https://drive.google.com/uc?export=download&id=1gXfeNVgJfETxJACXvdDTDK3O8L3inWzz">
+              Luận văn chương 3
+            </a>
+          </li>
+          <li>
+            <Link to="/Release_notes_04-06-2020.txt">
+              release_notes_04-06-2020.txt
+            </Link>
+          </li>
+
           <h2>29/05/2020</h2>
 
           <h2>21/05/2020</h2>
@@ -136,8 +156,8 @@ class App extends React.Component {
 
           <h2>23/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1er9U-TVcR6hzhB4G0YTxBqYdZRLPyQ3Z">
-              update Chương II
+            <a href="https://drive.google.com/uc?export=download&id=1Q7utlRL6NRAVil-13A9pXf7G8twIJ06x">
+              update Chương 2
             </a>
           </li>
           <li>
@@ -150,8 +170,8 @@ class App extends React.Component {
 
           <h2>09/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1er9U-TVcR6hzhB4G0YTxBqYdZRLPyQ3Z">
-              update Chương II
+            <a href="https://drive.google.com/uc?export=download&id=1Q7utlRL6NRAVil-13A9pXf7G8twIJ06x">
+              update Chương 2
             </a>
           </li>
           <li>
@@ -179,17 +199,17 @@ class App extends React.Component {
 
           <h2>26/03/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=11g5b8GbgF4M8AQPgU2tKh-GtqxlO0ng5">
+            <a href="https://drive.google.com/uc?export=download&id=1Q7utlRL6NRAVil-13A9pXf7G8twIJ06x">
               Liệt kê các khái niệm chương 2
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1374QZBBBf8MJuV0fRbWseBf-NieE1QMk">
+            <a href="https://drive.google.com/uc?export=download&id=1Jzn4RcR7ONfnlvi8ahSVgLh17KbYXaQq">
               Viết luận văn chương 4(chưa hoàn thành).
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1JibPMxiWHBw2CD9BjTCeHd5Q5oRfNcOi">
+            <a href="https://drive.google.com/uc?export=download&id=1jc0OjKwVTRs4XqeGjl59gW2gtEGXK_7c">
               Viết luận văn chương 5.
             </a>
           </li>
@@ -214,8 +234,8 @@ class App extends React.Component {
           </li>
 
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1ynXsefirPRkY9kok7UR3qa0P2lu57dR-">
-              Luận văn chương I
+            <a href="https://drive.google.com/uc?export=download&id=1rPbdKRL0CNLj_evzwst9iy8_s6l_2yIY">
+              Luận văn chương 1
             </a>
           </li>
 
