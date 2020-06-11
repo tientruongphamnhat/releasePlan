@@ -25,10 +25,62 @@ class App extends React.Component {
               <a href="https://trello.com/b/gf3ITn1K/kltn">Link</a>
             </p>
           </li>
+          <li>
+            <p>
+              Tài liệu hướng dẫn làm trang release:
+              <a href="https://drive.google.com/uc?export=download&id=12psmK_rvbiL7BcdhxCYuFF_qOkgsBhrO">
+                Link
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              Tài liệu hướng dẫn triển khai:
+              <a href="https://drive.google.com/uc?export=download&id=1nXQwzw8diZ4FHi9PT5jyc9Rf0wJsondU">
+                Link
+              </a>
+            </p>
+          </li>
         </ul>
         <hr />
+
         <h1>Cập nhật quá trình</h1>
         <ul>
+          <h2>11/06/2020</h2>
+          <li>
+            <p>
+              <a href="https://drive.google.com/uc?export=download&id=12psmK_rvbiL7BcdhxCYuFF_qOkgsBhrO">
+                Tài liệu hướng dẫn làm trang release:
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href="https://drive.google.com/uc?export=download&id=1nXQwzw8diZ4FHi9PT5jyc9Rf0wJsondU">
+                Tài liệu hướng dẫn triển khai:
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href="https://drive.google.com/uc?export=download&id=1zLIekgmwTlgDMGLyis84-x0LBsHewG5N">
+                Chỉnh sửa chương 3
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href="https://drive.google.com/uc?export=download&id=1Z4NGq2kAUDlSpFUmLRgp0bGr2MJILdPO">
+                Chỉnh sửa chương 4
+              </a>
+            </p>
+          </li>
+          <li>
+            <Link to="/Release_notes_11-06-2020.txt">
+              release_notes_11-06-2020.txt
+            </Link>
+          </li>
+
           <h2>04/06/2020</h2>
           <li>
             <a href="http://demo-translate-poc.herokuapp.com/">
@@ -39,7 +91,7 @@ class App extends React.Component {
             <a href="http://3.21.179.138/">back-end model</a>
           </li>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1gXfeNVgJfETxJACXvdDTDK3O8L3inWzz">
+            <a href="https://drive.google.com/uc?export=download&id=1zLIekgmwTlgDMGLyis84-x0LBsHewG5N">
               Luận văn chương 3
             </a>
           </li>
@@ -125,7 +177,7 @@ class App extends React.Component {
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1Jzn4RcR7ONfnlvi8ahSVgLh17KbYXaQq">
+            <a href="https://drive.google.com/uc?export=download&id=1Z4NGq2kAUDlSpFUmLRgp0bGr2MJILdPO">
               Viết luận văn chương 4(chưa hoàn thành).
             </a>
           </li>

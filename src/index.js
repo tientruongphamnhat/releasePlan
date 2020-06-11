@@ -15,6 +15,7 @@ import Release2304 from './release-note/release-note-23-04';
 import Release0705 from './release-note/release-note-07-05';
 import Release1405 from './release-note/release-note-14-05';
 import Release0406 from './release-note/release-note-04-06';
+import Release1106 from './release-note/release-note-11-06';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
@@ -52,6 +53,9 @@ ReactDOM.render(
       </Route>
       <Route path="/Release_notes_04-06-2020.txt">
         <Release0406 />
+      </Route>
+      <Route path="/Release_notes_11-06-2020.txt">
+        <Release1106 />
       </Route>
     </Switch>
   </Router>,
