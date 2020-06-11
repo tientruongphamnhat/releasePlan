@@ -100,7 +100,10 @@ class App extends React.Component {
               release_notes_04-06-2020.txt
             </Link>
           </li>
-
+        </ul>
+        <hr />
+        <h1>Cập nhật quá trình</h1>
+        <ul>
           <h2>29/05/2020</h2>
 
           <h2>21/05/2020</h2>
@@ -129,8 +132,8 @@ class App extends React.Component {
 
           <h2>23/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1Q7utlRL6NRAVil-13A9pXf7G8twIJ06x">
-              update Chương 2
+            <a href="https://drive.google.com/uc?export=download&id=1er9U-TVcR6hzhB4G0YTxBqYdZRLPyQ3Z">
+              update Chương II
             </a>
           </li>
           <li>
@@ -143,8 +146,8 @@ class App extends React.Component {
 
           <h2>09/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1Q7utlRL6NRAVil-13A9pXf7G8twIJ06x">
-              update Chương 2
+            <a href="https://drive.google.com/uc?export=download&id=1er9U-TVcR6hzhB4G0YTxBqYdZRLPyQ3Z">
+              update Chương II
             </a>
           </li>
           <li>
@@ -172,7 +175,7 @@ class App extends React.Component {
 
           <h2>26/03/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1Q7utlRL6NRAVil-13A9pXf7G8twIJ06x">
+            <a href="https://drive.google.com/uc?export=download&id=11g5b8GbgF4M8AQPgU2tKh-GtqxlO0ng5">
               Liệt kê các khái niệm chương 2
             </a>
           </li>
@@ -182,7 +185,7 @@ class App extends React.Component {
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1jc0OjKwVTRs4XqeGjl59gW2gtEGXK_7c">
+            <a href="https://drive.google.com/uc?export=download&id=1JibPMxiWHBw2CD9BjTCeHd5Q5oRfNcOi">
               Viết luận văn chương 5.
             </a>
           </li>
@@ -207,8 +210,8 @@ class App extends React.Component {
           </li>
 
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1rPbdKRL0CNLj_evzwst9iy8_s6l_2yIY">
-              Luận văn chương 1
+            <a href="https://drive.google.com/uc?export=download&id=1ynXsefirPRkY9kok7UR3qa0P2lu57dR-">
+              Luận văn chương I
             </a>
           </li>
 
