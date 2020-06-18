@@ -12,7 +12,7 @@ class App extends React.Component {
         <ul>
           <li>
             <p>
-              Google Drive chứa tài liệu:
+              Google Drive chứa tài liệu:&nbsp;
               <a href="https://drive.google.com/open?id=1UpzHgrxSpEU6TCgFCcNVF-U9HrBprhhW">
                 Link
               </a>
@@ -21,13 +21,13 @@ class App extends React.Component {
 
           <li>
             <p>
-              Link Trello:
+              Link Trello:&nbsp;
               <a href="https://trello.com/b/gf3ITn1K/kltn">Link</a>
             </p>
           </li>
           <li>
             <p>
-              Tài liệu hướng dẫn làm trang release:
+              Tài liệu hướng dẫn làm trang release:&nbsp;
               <a href="https://drive.google.com/uc?export=download&id=12psmK_rvbiL7BcdhxCYuFF_qOkgsBhrO">
                 Link
               </a>
@@ -35,9 +35,35 @@ class App extends React.Component {
           </li>
           <li>
             <p>
-              Tài liệu hướng dẫn triển khai:
-              <a href="https://drive.google.com/uc?export=download&id=1nXQwzw8diZ4FHi9PT5jyc9Rf0wJsondU">
+              Tài liệu hướng dẫn triển khai:&nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1cSnJQEF1pPgUlSp7Zq7Asnbhb7eF3ivi">
                 Link
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              Video hướng dẫn triển khai:&nbsp;
+              <a href="https://youtu.be/MA_V6nNoaXg">Link</a>
+            </p>
+          </li>
+          <li>
+            <p>
+              Tài liệu hướng dẫn cài đặt và biên dịch:&nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1iGkdWaH9YP7dPdQveMzOUnQ8NYY1EH2D">
+                Link
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              Luận văn: &nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1GX38w1O9ahHG5S7lU-IfLoiW1kuNHFUY">
+                (PDF)
+              </a>
+              &nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=17drdyB-sXPTg0U1WuUoZv3P--vr49Ccg">
+                (docx)
               </a>
             </p>
           </li>
@@ -46,6 +72,46 @@ class App extends React.Component {
 
         <h1>Cập nhật quá trình</h1>
         <ul>
+          <h2>18/06/2020</h2>
+          <li>
+            <p>
+              <a href="https://drive.google.com/uc?export=download&id=1cSnJQEF1pPgUlSp7Zq7Asnbhb7eF3ivi">
+                Tài liệu triển khai
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href="https://youtu.be/MA_V6nNoaXg">
+                Video hướng dẫn triển khai
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href="https://drive.google.com/uc?export=download&id=1iGkdWaH9YP7dPdQveMzOUnQ8NYY1EH2D">
+                Hướng dẫn cài đặt và biên dịch
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              Luận Văn: &nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1GX38w1O9ahHG5S7lU-IfLoiW1kuNHFUY">
+                (PDF)
+              </a>
+              &nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=17drdyB-sXPTg0U1WuUoZv3P--vr49Ccg">
+                (docx)
+              </a>
+            </p>
+          </li>
+          <li>
+            <Link to="/Release_notes_18-06-2020.txt">
+              release_notes_18-06-2020.txt
+            </Link>
+          </li>
+
           <h2>11/06/2020</h2>
           <li>
             <p>
@@ -56,7 +122,7 @@ class App extends React.Component {
           </li>
           <li>
             <p>
-              <a href="https://drive.google.com/uc?export=download&id=1nXQwzw8diZ4FHi9PT5jyc9Rf0wJsondU">
+              <a href="https://drive.google.com/uc?export=download&id=1cSnJQEF1pPgUlSp7Zq7Asnbhb7eF3ivi">
                 Tài liệu hướng dẫn triển khai:
               </a>
             </p>
