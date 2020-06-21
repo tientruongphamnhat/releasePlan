@@ -25,32 +25,67 @@ class App extends React.Component {
               <a href="https://trello.com/b/gf3ITn1K/kltn">Link</a>
             </p>
           </li>
+        </ul>
+
+        <hr />
+        <h1>Nội dung nộp </h1>
+        <ul>
           <li>
             <p>
-              Tài liệu hướng dẫn làm trang release:&nbsp;
-              <a href="https://drive.google.com/uc?export=download&id=12psmK_rvbiL7BcdhxCYuFF_qOkgsBhrO">
-                Link
-              </a>
+              Video bảo vệ thử khóa luận:&nbsp;
+              <a href="https://youtu.be/yeWKoj-9Tno">Link</a>
             </p>
           </li>
-          <li>
-            <p>
-              Tài liệu hướng dẫn triển khai:&nbsp;
-              <a href="https://drive.google.com/uc?export=download&id=1cSnJQEF1pPgUlSp7Zq7Asnbhb7eF3ivi">
-                Link
-              </a>
-            </p>
-          </li>
+
           <li>
             <p>
               Video hướng dẫn triển khai:&nbsp;
               <a href="https://youtu.be/MA_V6nNoaXg">Link</a>
             </p>
           </li>
+
           <li>
             <p>
-              Tài liệu hướng dẫn cài đặt và biên dịch:&nbsp;
-              <a href="https://drive.google.com/uc?export=download&id=1iGkdWaH9YP7dPdQveMzOUnQ8NYY1EH2D">
+              Video demo ứng dụng:&nbsp;
+              <a href="https://youtu.be/j3k97WQ3PVc">Link</a>
+            </p>
+          </li>
+          <li>
+            <p>Mã Nguồn:</p>
+          </li>
+          <ul>
+            <li>
+              <p>
+                Mã nguồn train:&nbsp;
+                <a href="https://github.com/nmtri1912/Model">Link </a>
+                &nbsp;
+                <a href="https://github.com/nmtri1912/Model">(github)</a>
+              </p>
+            </li>
+            <li>
+              Mã nguồn APi dịch: &nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1fF_K3jll0jHIKv-0F_lmY1hF5CuBp-CY">
+                Link
+              </a>
+            </li>
+            <li>
+              <p>
+                Mã nguồn trang demo:&nbsp;
+                <a href="https://github.com/tientruongphamnhat/front-end-demo">
+                  Link
+                </a>
+                &nbsp;
+                <a href="https://github.com/tientruongphamnhat/front-end-demo">
+                  (github)
+                </a>
+              </p>
+            </li>
+          </ul>
+
+          <li>
+            <p>
+              Slide thuyết trình bảo vệ:&nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1n3Td7zijBZBZ5EUmMvVhtUm2XRrmtaEA">
                 Link
               </a>
             </p>
@@ -64,6 +99,74 @@ class App extends React.Component {
               &nbsp;
               <a href="https://drive.google.com/uc?export=download&id=17drdyB-sXPTg0U1WuUoZv3P--vr49Ccg">
                 (docx)
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              Tài liệu hướng dẫn cài đặt và biên dịch:&nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1C3GVwJ4oYfMfe6KqyM0PYyCWK3tDfgNE">
+                (PDF )
+              </a>
+              &nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1iGkdWaH9YP7dPdQveMzOUnQ8NYY1EH2D">
+                (docx)
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              Tài liệu hướng dẫn triển khai:&nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1Yeo22NZtlObQkMIBMysqK2m70czshabM">
+                (PDF)
+              </a>
+              <a href="https://drive.google.com/uc?export=download&id=1cSnJQEF1pPgUlSp7Zq7Asnbhb7eF3ivi">
+                (docx)
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>Hướng dẫn sử dụng:</p>
+          </li>
+          <ul>
+            <li>
+              <p>
+                Hướng dẫn sử dụng API:&nbsp;
+                <a href="https://drive.google.com/uc?export=download&id=1aqwYURH3OLszYf262GXo0pn96nBzmq7t">
+                  (PDF)
+                </a>
+                &nbsp;
+                <a href="https://drive.google.com/uc?export=download&id=1xAwwDw9f8sOykLVzjGXDG-I0I7_6nDlf">
+                  (docx)
+                </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                Hướng dẫn sử dụng demo:&nbsp;
+                <a href="https://drive.google.com/uc?export=download&id=1gM2tkyqyLsPCvXjtp3IMHS70VeEHupM7">
+                  (PDF)
+                </a>
+                &nbsp;
+                <a href="https://drive.google.com/uc?export=download&id=19XfZtheIfOvwWP-WCIANNnxqxy6XHKxG">
+                  (docx)
+                </a>
+              </p>
+            </li>
+          </ul>
+          <li>
+            <p>
+              Tài liệu hướng dẫn làm trang release:&nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=1no9BNBjycq5IJkJCWjELe1lz55ceOZ45">
+                (PDF)
+              </a>
+              &nbsp;
+              <a href="https://drive.google.com/uc?export=download&id=12psmK_rvbiL7BcdhxCYuFF_qOkgsBhrO">
+                (docx)
+              </a>
+              &nbsp;
+              <a href="https://github.com/tientruongphamnhat/releasePlan">
+                (Mã nguồn mẫu github)
               </a>
             </p>
           </li>
@@ -303,169 +406,6 @@ class App extends React.Component {
               release_notes_06-03-2020.txt
             </Link>
           </li>
-
-          <br />
-          {/* <li>
-            <a href="https://youtu.be/VDohumbqSmA">
-              Link youtube video hướng dẫn cài đặt, sử dụng
-            </a>
-          </li>
-          <li>
-            <a href="https://youtu.be/GtA4AhRKEnQ">
-              Link youtube demo ứng dụng
-            </a>
-          </li>
-          <li>
-            <a href="https://youtu.be/_fnCCNUlW7w">
-              Link youtube video bảo vệ thử khoá luận
-            </a>
-          </li>
-          <li>
-            <a href="slide_bao_ve_2020-02-10.pptx">Slide thuyết trình</a>
-          </li>
-          <li>
-            <a href="sound_meter_2020-02-10.zip">
-              Tập tin nén chứa thư mục mã nguồn
-            </a>
-          </li>
-          <li>
-            <a href="android_2020-02-10.apk">android_2020-02-10.apk</a>
-          </li>
-          <li>
-            <a href="huong_dan_su_dung_2020-02-10.pdf">
-              Hướng dẫn sử dụng (PDF)
-            </a>
-          </li>
-          <li>
-            <a href="huong_dan_cai_dat_bien_dich_2020-02-10.pdf">
-              Hướng dẫn cài đặt và biên dịch (PDF)
-            </a>
-          </li>
-          <li>
-            <a href="huong_dan_trien_khai_2020-02-10.pdf">
-              Hướng dẫn triển khai (PDF)
-            </a>
-          </li>
-          <li>
-            <a href="luan_van_2020-02-10.pdf">Luận văn (PDF)</a>
-          </li>
-
-          <br /> */}
-
-          {/* <h2>03/02/2020</h2>
-          <li>
-            <a href="sound_meter_2020-02-03.zip">
-              Tập tin nén chứa thư mục mã nguồn
-            </a>
-          </li>
-          <li>
-            <a href="android_2020-02-03.apk">android_2020-02-03.apk</a>
-          </li>
-          <li>
-            <a href="huong_dan_su_dung_2020-02-03.pdf">
-              Hướng dẫn sử dụng (PDF)
-            </a>
-          </li>
-          <li>
-            <a href="huong_dan_cai_dat_bien_dich_2020-02-03.pdf">
-              Hướng dẫn cài đặt và biên dịch (PDF)
-            </a>
-          </li>
-          <li>
-            <a href="luan_van_2020-02-03.pdf">Luận văn (PDF)</a>
-          </li>
-
-          <br />
-
-          <h2>02/01/2020</h2>
-          <li>
-            <a href="android_2020-01-02.apk">android_2020-01-02.apk</a>
-          </li>
-          <li>
-            <a href="release_notes_2020-01-02.txt">
-              release_notes_2020-01-02.txt
-            </a>
-          </li>
-
-          <br />
-
-          <h2>19/12/2019</h2>
-          <li>
-            <a href="android_2019-12-19.apk">android_2019-12-19.apk</a>
-          </li>
-          <li>
-            <a href="release_notes_2019-12-19.txt">
-              release_notes_2019-12-19.txt
-            </a>
-          </li>
-
-          <br />
-
-          <h2>05/12/2019</h2>
-          <li>
-            <a href="chuong-4-luan-van-05122019.pdf">
-              Chương 4: Cài đặt giải pháp
-            </a>
-          </li>
-          <li>
-            <a href="chuong-1-luan-van-05122019.pdf">
-              Chương 1: Giới thiệu (Cập nhật)
-            </a>
-          </li>
-          <li>
-            <a href="android_2019-12-05.apk">android_2019-12-05.apk</a>
-          </li>
-          <li>
-            <a href="release_notes_2019-12-05.txt">
-              release_notes_2019-12-05.txt
-            </a>
-          </li>
-
-          <br />
-
-          <h2>28/11/2019</h2>
-          <li>
-            <a href="chuong-3-luan-van-28112019.docx">
-              Chương 3: Thiết kế giải pháp
-            </a>
-          </li>
-          <li>
-            <a href="chuong-4-luan-van-28112019.docx">
-              Chương 4: Cài đặt giải pháp
-            </a>
-          </li>
-          <li>
-            <a href="android_2019-11-28.apk">android_2019-11-28.apk</a>
-          </li>
-          <li>
-            <a href="release_notes_2019-11-28.txt">
-              release_notes_2019-11-28.txt
-            </a>
-          </li>
-
-          <br />
-
-          <h2>21/11/2019</h2>
-          <li>
-            <a href="android_2019-11-21.apk">android_2019-11-21.apk</a>
-          </li>
-          <li>
-            <a href="release_notes_2019-11-21.txt">
-              release_notes_2019-11-21.txt
-            </a>
-          </li>
-
-          <br />
-
-          <h2>14/11/2019</h2>
-          <li>
-            <a href="android_2019-11-14.apk">android_2019-11-14.apk</a>
-          </li>
-          <li>
-            <a href="release_notes_2019-11-14.txt">
-              release_notes_2019-11-14.txt
-            </a>
-          </li> */}
         </ul>
         <hr />
       </>
