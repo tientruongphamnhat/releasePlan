@@ -93,11 +93,11 @@ class App extends React.Component {
           <li>
             <p>
               Luận văn: &nbsp;
-              <a href="https://drive.google.com/uc?export=download&id=1GX38w1O9ahHG5S7lU-IfLoiW1kuNHFUY">
+              <a href="https://drive.google.com/uc?export=download&id=16pozmwoiS1mLq--qjPYtt9s-ecUIIteo">
                 (PDF)
               </a>
               &nbsp;
-              <a href="https://drive.google.com/uc?export=download&id=17drdyB-sXPTg0U1WuUoZv3P--vr49Ccg">
+              <a href="https://drive.google.com/uc?export=download&id=1dVwJTehnRUDrY564Mo1hT71w14LszceI">
                 (docx)
               </a>
             </p>
