@@ -170,6 +170,12 @@ class App extends React.Component {
               </a>
             </p>
           </li>
+          <li>
+            <p>
+              Trang demo:&nbsp;
+              <a href="http://demo-kltn.herokuapp.com/">Link</a>
+            </p>
+          </li>
         </ul>
         <hr />
 
@@ -200,11 +206,11 @@ class App extends React.Component {
           <li>
             <p>
               Luận Văn: &nbsp;
-              <a href="https://drive.google.com/uc?export=download&id=1GX38w1O9ahHG5S7lU-IfLoiW1kuNHFUY">
+              <a href="https://drive.google.com/uc?export=download&id=16pozmwoiS1mLq--qjPYtt9s-ecUIIteo">
                 (PDF)
               </a>
               &nbsp;
-              <a href="https://drive.google.com/uc?export=download&id=17drdyB-sXPTg0U1WuUoZv3P--vr49Ccg">
+              <a href="https://drive.google.com/uc?export=download&id=1dVwJTehnRUDrY564Mo1hT71w14LszceI">
                 (docx)
               </a>
             </p>
@@ -252,12 +258,10 @@ class App extends React.Component {
 
           <h2>04/06/2020</h2>
           <li>
-            <a href="http://demo-translate-poc.herokuapp.com/">
-              front-end product
-            </a>
+            <a href="http://demo-kltn.herokuapp.com/">front-end product</a>
           </li>
           <li>
-            <a href="http://3.21.179.138/">back-end model</a>
+            <a href="http://34.87.103.230/">back-end model</a>
           </li>
           <li>
             <a href="https://drive.google.com/uc?export=download&id=1zLIekgmwTlgDMGLyis84-x0LBsHewG5N">
@@ -287,7 +291,7 @@ class App extends React.Component {
             </Link>
           </li>
 
-          <h2>07/05/2020</h2>
+          {/* <h2>07/05/2020</h2>
           <li>
             <a href="http://demo-translate-poc.herokuapp.com/">Demo Poc</a>
           </li>
@@ -295,13 +299,13 @@ class App extends React.Component {
             <Link to="/Release_notes_07-05-2020.txt">
               release_notes_07-05-2020.txt
             </Link>
-          </li>
+          </li> */}
 
           <h2>30/04/2020</h2>
 
           <h2>23/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1er9U-TVcR6hzhB4G0YTxBqYdZRLPyQ3Z">
+            <a href="https://drive.google.com/uc?export=download&id=1Y39gkMfiyrPBX-4-v3qHV7X0qwjUSmzl">
               update Chương II
             </a>
           </li>
@@ -315,7 +319,7 @@ class App extends React.Component {
 
           <h2>09/04/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1er9U-TVcR6hzhB4G0YTxBqYdZRLPyQ3Z">
+            <a href="https://drive.google.com/uc?export=download&id=1Y39gkMfiyrPBX-4-v3qHV7X0qwjUSmzl">
               update Chương II
             </a>
           </li>
@@ -344,7 +348,7 @@ class App extends React.Component {
 
           <h2>26/03/2020</h2>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=11g5b8GbgF4M8AQPgU2tKh-GtqxlO0ng5">
+            <a href="https://drive.google.com/uc?export=download&id=1Y39gkMfiyrPBX-4-v3qHV7X0qwjUSmzl">
               Liệt kê các khái niệm chương 2
             </a>
           </li>
@@ -354,7 +358,7 @@ class App extends React.Component {
             </a>
           </li>
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1JibPMxiWHBw2CD9BjTCeHd5Q5oRfNcOi">
+            <a href="https://drive.google.com/uc?export=download&id=1L0PwvKsC7A1xeMPl-Y9rcPuEiWNf5iTn">
               Viết luận văn chương 5.
             </a>
           </li>
@@ -372,21 +376,21 @@ class App extends React.Component {
           <h2>19/03/2020</h2>
 
           <h2>12/03/2020</h2>
-          <li>
+          {/* <li>
             <a href="https://drive.google.com/uc?export=download&id=1gE99dM0byX7Bg-QqoCJCpTaPfGY2Yxjd">
               Slide giới thiệu đề tài
             </a>
-          </li>
+          </li> */}
 
           <li>
-            <a href="https://drive.google.com/uc?export=download&id=1ynXsefirPRkY9kok7UR3qa0P2lu57dR-">
+            <a href="https://drive.google.com/uc?export=download&id=1YNN50UxzCb1nPtfkTzpJThsG1Ed_6dTL">
               Luận văn chương I
             </a>
           </li>
 
-          <li>
+          {/* <li>
             <a href="http://demo-translate-poc.herokuapp.com/">PoC</a>
-          </li>
+          </li> */}
 
           <li>
             <Link to="/Release_notes_12-03-2020.txt">
